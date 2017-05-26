@@ -1,0 +1,57 @@
+c:\users\adoje\documents\visual studio 2017\Projects\RobotRemoteControlBot\RobotRemoteControlBot\bin\Bot Application.dll.config
+c:\users\adoje\documents\visual studio 2017\Projects\RobotRemoteControlBot\RobotRemoteControlBot\bin\Bot Application.dll
+c:\users\adoje\documents\visual studio 2017\Projects\RobotRemoteControlBot\RobotRemoteControlBot\bin\Bot Application.pdb
+c:\users\adoje\documents\visual studio 2017\Projects\RobotRemoteControlBot\RobotRemoteControlBot\bin\Autofac.dll
+c:\users\adoje\documents\visual studio 2017\Projects\RobotRemoteControlBot\RobotRemoteControlBot\bin\Chronic.dll
+c:\users\adoje\documents\visual studio 2017\Projects\RobotRemoteControlBot\RobotRemoteControlBot\bin\Microsoft.Bot.Builder.Autofac.dll
+c:\users\adoje\documents\visual studio 2017\Projects\RobotRemoteControlBot\RobotRemoteControlBot\bin\Microsoft.Bot.Builder.dll
+c:\users\adoje\documents\visual studio 2017\Projects\RobotRemoteControlBot\RobotRemoteControlBot\bin\Microsoft.Bot.Connector.dll
+c:\users\adoje\documents\visual studio 2017\Projects\RobotRemoteControlBot\RobotRemoteControlBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+c:\users\adoje\documents\visual studio 2017\Projects\RobotRemoteControlBot\RobotRemoteControlBot\bin\Microsoft.Rest.ClientRuntime.dll
+c:\users\adoje\documents\visual studio 2017\Projects\RobotRemoteControlBot\RobotRemoteControlBot\bin\Microsoft.WindowsAzure.Configuration.dll
+c:\users\adoje\documents\visual studio 2017\Projects\RobotRemoteControlBot\RobotRemoteControlBot\bin\Newtonsoft.Json.dll
+c:\users\adoje\documents\visual studio 2017\Projects\RobotRemoteControlBot\RobotRemoteControlBot\bin\System.IdentityModel.Tokens.Jwt.dll
+c:\users\adoje\documents\visual studio 2017\Projects\RobotRemoteControlBot\RobotRemoteControlBot\bin\System.Net.Http.Formatting.dll
+c:\users\adoje\documents\visual studio 2017\Projects\RobotRemoteControlBot\RobotRemoteControlBot\bin\System.Web.Http.dll
+c:\users\adoje\documents\visual studio 2017\Projects\RobotRemoteControlBot\RobotRemoteControlBot\bin\System.Web.Http.WebHost.dll
+c:\users\adoje\documents\visual studio 2017\Projects\RobotRemoteControlBot\RobotRemoteControlBot\bin\Autofac.xml
+c:\users\adoje\documents\visual studio 2017\Projects\RobotRemoteControlBot\RobotRemoteControlBot\bin\Microsoft.Bot.Builder.xml
+c:\users\adoje\documents\visual studio 2017\Projects\RobotRemoteControlBot\RobotRemoteControlBot\bin\Microsoft.Bot.Builder.Autofac.xml
+c:\users\adoje\documents\visual studio 2017\Projects\RobotRemoteControlBot\RobotRemoteControlBot\bin\Microsoft.Bot.Connector.xml
+c:\users\adoje\documents\visual studio 2017\Projects\RobotRemoteControlBot\RobotRemoteControlBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+c:\users\adoje\documents\visual studio 2017\Projects\RobotRemoteControlBot\RobotRemoteControlBot\bin\Microsoft.WindowsAzure.Configuration.xml
+c:\users\adoje\documents\visual studio 2017\Projects\RobotRemoteControlBot\RobotRemoteControlBot\bin\Newtonsoft.Json.xml
+c:\users\adoje\documents\visual studio 2017\Projects\RobotRemoteControlBot\RobotRemoteControlBot\bin\System.IdentityModel.Tokens.Jwt.xml
+c:\users\adoje\documents\visual studio 2017\Projects\RobotRemoteControlBot\RobotRemoteControlBot\bin\System.Net.Http.Formatting.xml
+c:\users\adoje\documents\visual studio 2017\Projects\RobotRemoteControlBot\RobotRemoteControlBot\bin\System.Web.Http.xml
+c:\users\adoje\documents\visual studio 2017\Projects\RobotRemoteControlBot\RobotRemoteControlBot\bin\System.Web.Http.WebHost.xml
+c:\users\adoje\documents\visual studio 2017\Projects\RobotRemoteControlBot\RobotRemoteControlBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+c:\users\adoje\documents\visual studio 2017\Projects\RobotRemoteControlBot\RobotRemoteControlBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+c:\users\adoje\documents\visual studio 2017\Projects\RobotRemoteControlBot\RobotRemoteControlBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+c:\users\adoje\documents\visual studio 2017\Projects\RobotRemoteControlBot\RobotRemoteControlBot\bin\en\Microsoft.Bot.Builder.resources.dll
+c:\users\adoje\documents\visual studio 2017\Projects\RobotRemoteControlBot\RobotRemoteControlBot\bin\es\Microsoft.Bot.Builder.resources.dll
+c:\users\adoje\documents\visual studio 2017\Projects\RobotRemoteControlBot\RobotRemoteControlBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+c:\users\adoje\documents\visual studio 2017\Projects\RobotRemoteControlBot\RobotRemoteControlBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+c:\users\adoje\documents\visual studio 2017\Projects\RobotRemoteControlBot\RobotRemoteControlBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+c:\users\adoje\documents\visual studio 2017\Projects\RobotRemoteControlBot\RobotRemoteControlBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+c:\users\adoje\documents\visual studio 2017\Projects\RobotRemoteControlBot\RobotRemoteControlBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+c:\users\adoje\documents\visual studio 2017\Projects\RobotRemoteControlBot\RobotRemoteControlBot\obj\Debug\RobotRemoteControlBot.csprojResolveAssemblyReference.cache
+c:\users\adoje\documents\visual studio 2017\Projects\RobotRemoteControlBot\RobotRemoteControlBot\obj\Debug\Bot Application.dll
+c:\users\adoje\documents\visual studio 2017\Projects\RobotRemoteControlBot\RobotRemoteControlBot\obj\Debug\Bot Application.pdb
+c:\users\adoje\documents\visual studio 2017\Projects\RobotRemoteControlBot\RobotRemoteControlBot\bin\Microsoft.Azure.Amqp.dll
+c:\users\adoje\documents\visual studio 2017\Projects\RobotRemoteControlBot\RobotRemoteControlBot\bin\Microsoft.Azure.Devices.dll
+c:\users\adoje\documents\visual studio 2017\Projects\RobotRemoteControlBot\RobotRemoteControlBot\bin\Microsoft.Azure.Devices.Shared.dll
+c:\users\adoje\documents\visual studio 2017\Projects\RobotRemoteControlBot\RobotRemoteControlBot\bin\PCLCrypto.dll
+c:\users\adoje\documents\visual studio 2017\Projects\RobotRemoteControlBot\RobotRemoteControlBot\bin\PInvoke.BCrypt.dll
+c:\users\adoje\documents\visual studio 2017\Projects\RobotRemoteControlBot\RobotRemoteControlBot\bin\PInvoke.Kernel32.dll
+c:\users\adoje\documents\visual studio 2017\Projects\RobotRemoteControlBot\RobotRemoteControlBot\bin\PInvoke.NCrypt.dll
+c:\users\adoje\documents\visual studio 2017\Projects\RobotRemoteControlBot\RobotRemoteControlBot\bin\PInvoke.Windows.Core.dll
+c:\users\adoje\documents\visual studio 2017\Projects\RobotRemoteControlBot\RobotRemoteControlBot\bin\Validation.dll
+c:\users\adoje\documents\visual studio 2017\Projects\RobotRemoteControlBot\RobotRemoteControlBot\bin\Microsoft.Azure.Amqp.xml
+c:\users\adoje\documents\visual studio 2017\Projects\RobotRemoteControlBot\RobotRemoteControlBot\bin\Microsoft.Azure.Devices.xml
+c:\users\adoje\documents\visual studio 2017\Projects\RobotRemoteControlBot\RobotRemoteControlBot\bin\PCLCrypto.xml
+c:\users\adoje\documents\visual studio 2017\Projects\RobotRemoteControlBot\RobotRemoteControlBot\bin\PInvoke.BCrypt.xml
+c:\users\adoje\documents\visual studio 2017\Projects\RobotRemoteControlBot\RobotRemoteControlBot\bin\PInvoke.Kernel32.xml
+c:\users\adoje\documents\visual studio 2017\Projects\RobotRemoteControlBot\RobotRemoteControlBot\bin\PInvoke.NCrypt.xml
+c:\users\adoje\documents\visual studio 2017\Projects\RobotRemoteControlBot\RobotRemoteControlBot\bin\PInvoke.Windows.Core.xml
+c:\users\adoje\documents\visual studio 2017\Projects\RobotRemoteControlBot\RobotRemoteControlBot\bin\Validation.xml
