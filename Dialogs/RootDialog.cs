@@ -5,8 +5,10 @@ using Microsoft.Bot.Connector;
 using Microsoft.Bot.Builder.Luis;
 using Microsoft.Bot.Builder.Luis.Models;
 using Microsoft.Azure.Devices;
+using Microsoft.Azure.Devices.Common.Exceptions;
 
 namespace RobotRemoteControlBot.Dialogs
+
 {
     [Serializable]
     [LuisModel("e7335122-7819-48d2-8e9f-794bb1129419", "db7fab4525544462899e39311acb9edb")]
@@ -60,12 +62,26 @@ namespace RobotRemoteControlBot.Dialogs
         {
             command = "TurnRobot" + command;
             var methodInvocation = new CloudToDeviceMethod(command) { ResponseTimeout = TimeSpan.FromSeconds(30) };
-            methodInvocation.SetPayloadJson("'moving the robot'");
 
-            var response = await serviceClient.InvokeDeviceMethodAsync("Robot", methodInvocation);
+            methodInvocation.SetPayloadJson(Newtonsoft.Json.JsonConvert.SerializeObject(new
+            {
+                message = "moving the robot"
+            }));
 
-            Console.WriteLine("Response status: {0}, payload:", response.Status);
-            Console.WriteLine(response.GetPayloadAsJson());
+
+
+            try
+            {
+                var response = await serviceClient.InvokeDeviceMethodAsync("Robot", methodInvocation);
+                Console.WriteLine("Response status: {0}, payload:", response.Status);
+                Console.WriteLine(response.GetPayloadAsJson());
+            }
+            catch (IotHubException)
+            {
+                // write code here 
+            }
+
+
         }
     }
 }
